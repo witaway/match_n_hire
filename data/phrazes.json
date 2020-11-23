@@ -1,0 +1,203 @@
+{
+    "english": {
+        
+        "hello_again_greeting": "It's nice to see you again! Wanna continue your search?",
+        "hello_again_button": "Sure!",
+
+        "registration_start": "Okay, next you should fill some data about yourself",
+        
+        "settings_name_greeting": "What's your name?",
+        "settings_name_unknown": "No, enter your name please",
+        
+        "settings_age_greeting": "How old are you?",
+        "settings_age_unknown": "No, enter your age please",
+        "settings_age_not_int": "No, enter your age using only digits",
+        "settings_age_young": "Sorry, you're too young",
+        "settings_age_old": "Please, enter the correct age",
+        
+        "settings_description_greeting": "Describe yourself. Be creative!",
+        "settings_description_unknown": "No, describe yourself with text",
+
+        "settings_stack_greeting": "Enter your technology stack separated with spaces",
+        "settings_stack_unknown": "No, enter the stack using text, please",
+
+        "settings_photo_greeting": "Send the best photo of yourself ;)",
+        "settings_photo_unknown": "No, send picture of you or press button and don't send",
+        "settings_photo_button_dont_send": "Not now",
+
+        "settings_location_greeting": "Send your location tag. This step is neccesarry, so we could find employers near you",
+        "settings_location_unknown": "No, send geotag please. We will add support of text location some later",
+
+        "settings_resume_greeting": "Send your resume.",
+        "settings_resume_unknown": "No, send your resume or press button and don't send",
+        "settings_resume_button_dont_send": "Not now",
+
+        "settings_contacts_greeting": "Enter contacts for employer. Make sure they're correct!",
+        "settings_contacts_unknown": "No, send it with text please",
+
+        "settings_language_greeting": "Choose language please",
+        "settings_language_doesnt_exist": "There's no such language",
+        "settings_language_unknown": "Choose language please",
+        "settings_language_button": "English",
+
+        "go_back_button": "Go back",
+        "change_button": "Change",
+
+        "no_such_variant": "There's no such option",
+
+        "profile_greeting": "That's how your profile looks:",
+        "profile_settings_1": "Fill out the profile again",
+        "profile_pic_or_resume_2": "Change photo or resume",
+        "profile_change_description_3": "Change your description",
+        "profile_contacts_4": "Your contact data",
+        "profile_start_matching_5": "Start matching",
+        
+        "profile_pic_or_resume_choose": "Choose what do you want to change",
+        "profile_pic_or_resume_photo_button": "Photo",
+        "profile_pic_or_resume_resume_button": "Resume",
+
+        "profile_contacts_your_data": "Your contact data:",
+
+        
+        "settings_company_name_greeting": "Enter the company name",
+        "settings_company_name_unknown": "It's incorrect, enter the company name",
+        "settings_company_description_greeting": "Enter the company description",
+        "settings_company_contacts_greeting": "Enter contacts for job seeker. Make sure they're correct!",
+        "settings_company_contacts_unknown": "No, enter your contacts with text please",
+        
+        "company_verified_status": "Status: verified",
+        "company_unverified_status": "Status: not verified",
+        "company_profile_cards": "List of the cards",
+        "company_profile_reinit": "Refill company profile information",
+        "company_profile_verification": "Pass verification",
+
+        "company_cards_list_greeting": "These are cards of your company:",
+        "company_cards_list_no_cards": "No cards",
+        "company_cards_menu_without_number": "Choose what do you want to do",
+        "company_cards_menu_full": "Choose what do you want to do or enter card number to edit it",
+        "company_cards_new_card_button": "New card",
+        "company_cards_incorrect_number": "Incorrect card number",
+
+        "settings_company_newcard_label_greeting": "Enter the label of the card (only you can see it)",
+        "settings_company_newcard_label_more_than_1line": "Label must be only one line",
+        "settings_company_newcard_label_unknown": "No, enter the label with text",
+        "settings_company_newcard_description_greeting": "Enter the description of the card",
+        "settings_company_newcard_photo_dont_send": "Not now",
+        "settings_company_newcard_photo_greeting": "Send picture of the card, it will introduce your company!",
+        "settings_company_newcard_photo_unknown": "No, send picture of you or press button and don't send",
+        "settings_company_newcard_document_dont_send": "No, thanks",
+        "settings_company_newcard_document_greeting": "Send document to attach it to the card, if you want",
+        "settings_company_newcard_document_unknown": "Please send document or press the button and don't send",
+        
+        "company_card_matching": "Start matching!",
+        "company_card_settings": "Refill up the card information",
+        "company_card_delete": "Delete card",
+
+        "matching_like": "👍",
+        "matching_dislike": "👎",
+        "matching_complaint": "complaint",
+        "matching_zzz": "⚙️"
+    },
+
+    "russian": {
+        
+        "hello_again_greeting": "Рады видеть вас снова! Хотите продолжить поиски?",
+        "hello_again_button": "Да",
+
+        "registration_start": "Хорошо, заполните кое-какие данные о себе",
+        
+        "settings_name_greeting": "Как вас зовут?",
+        "settings_name_unknown": "Нет, введите, пожалуйста, имя",
+        
+        "settings_age_greeting": "Сколько вам лет?",
+        "settings_age_unknown": "Нет, введите возраст",
+        "settings_age_not_int": "Введите свой возраст используя только цифры",
+        "settings_age_young": "Извините, вы слишком молоды",
+        "settings_age_old": "Введите корректный возраст",
+        
+        "settings_description_greeting": "Опишите себя. Будьте креативны!",
+        "settings_description_unknown": "Нет, в описании может быть только текст",
+
+        "settings_stack_greeting": "Введите свой стек технологий через пробел",
+        "settings_stack_unknown": "Нет, введите свой стек технологий через пробел",
+
+        "settings_photo_greeting": "Отправьте свою лучшую фотографию ;)",
+        "settings_photo_unknown": "Нет, отравьте своё фото или нажмите на кнопку, чтобы этого не делать",
+        "settings_photo_button_dont_send": "Не сейчас",
+
+        "settings_location_greeting": "Отправьте свою геометку. Этот шаг необходим, чтобы мы могли найти работодателей рядом",
+        "settings_location_unknown": "Нет, отправьте геоометку. Также мы добавим поддержку ввода местоположения текстом в следующих версиях.",
+
+        "settings_resume_greeting": "Отправьте документ со своим резюме",
+        "settings_resume_unknown": "Отправьте документ со своим резюме",
+        "settings_resume_button_dont_send": "Не сейчас",
+
+        "settings_contacts_greeting": "Введите свои контактные данные, чтобы работодатель смог с вами связаться.\nУбедитесь, что всё ввели правильно!",
+        "settings_contacts_unknown": "Нет. Отправьте, пожалуйста, свои контакты текстом",
+
+        "settings_language_greeting": "Выберите язык",
+        "settings_language_doesnt_exist": "Этот язык не поддерживается системой",
+        "settings_language_unknown": "Выберите язык",
+        "settings_language_button": "Русский",
+
+        "go_back_button": "Назад",
+        "change_button": "Изменить",
+
+        "no_such_variant": "Такого варианта нет",
+
+        "profile_greeting": "Вот как выглядит ваш профиль:",
+        "profile_settings_1": "Заполнить профиль заново",
+        "profile_pic_or_resume_2": "Заменить фотографию или резюме",
+        "profile_change_description_3": "Изменить текст анкеты",
+        "profile_contacts_4": "Контактные данные",
+        "profile_start_matching_5": "Начать поиск",
+        
+        "profile_pic_or_resume_choose": "Что вы хотите поменять?",
+        "profile_pic_or_resume_photo_button": "Фото",
+        "profile_pic_or_resume_resume_button": "Резюме",
+
+        "profile_contacts_your_data": "Ваши контактные данные:",
+
+        
+        "settings_company_name_greeting": "Введите название компании",
+        "settings_company_name_unknown": "Неправильно, введите название компании",
+        "settings_company_description_greeting": "Введите описание компании",
+        "settings_company_contacts_greeting": "Напишите свои контактные данные для связи с соискателями.\nУбедитесь в их корректности!",
+        "settings_company_contacts_unknown": "Нет, введите свои контктные данные текстом",
+        
+        "company_verified_status": "Стутус: верификация пройдена",
+        "company_unverified_status": "Статус: верификация не пройдена",
+        "company_profile_cards": "Список карточек",
+        "company_profile_reinit": "Ввести данные о компании заново",
+        "company_profile_verification": "Пройти верификацию",
+
+        "company_cards_list_greeting": "These are cards of your company:",
+        "company_cards_list_no_cards": "No cards",
+        "company_cards_menu_without_number": "Choose what do you want to do",
+        "company_cards_menu_full": "Choose what do you want to do or enter card number to edit it",
+        "company_cards_new_card_button": "New card",
+        "company_cards_incorrect_number": "Incorrect card number",
+
+        "settings_company_newcard_label_greeting": "Enter the label of the card (only you can see it)",
+        "settings_company_newcard_label_more_than_1line": "Label must be only one line",
+        "settings_company_newcard_label_unknown": "No, enter the label with text",
+        "settings_company_newcard_description_greeting": "Enter the description of the card",
+        "settings_company_newcard_photo_dont_send": "Not now",
+        "settings_company_newcard_photo_greeting": "Send picture of the card, it will introduce your company!",
+        "settings_company_newcard_photo_unknown": "No, send picture of you or press button and don't send",
+        "settings_company_newcard_document_dont_send": "No, thanks",
+        "settings_company_newcard_document_greeting": "Send document to attach it to the card, if you want",
+        "settings_company_newcard_document_unknown": "Please send document or press the button and don't send",
+        
+        "company_card_matching": "Start matching!",
+        "company_card_settings": "Refill up the card information",
+        "company_card_delete": "Delete card",
+
+        "matching_like": "👍",
+        "matching_dislike": "👎",
+        "matching_complaint": "complaint",
+        "matching_zzz": "⚙️"
+    }
+
+
+}

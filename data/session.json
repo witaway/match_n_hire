@@ -1,0 +1,212 @@
+{
+  "sessions": [
+    {
+      "id": "402526102:402526102",
+      "data": {
+        "_fix": null,
+        "settings": {},
+        "language": "english",
+        "companyName": "Sintracorp",
+        "companyDescription": "Company that cursed\nand cursed and cursed",
+        "companyDescriptionEntities": [
+          {
+            "offset": 13,
+            "length": 7,
+            "type": "bold"
+          },
+          {
+            "offset": 31,
+            "length": 3,
+            "type": "bold"
+          }
+        ],
+        "initCardCompanyOwnerId": null,
+        "initCardId": null,
+        "initCard": null,
+        "currentCardId": 81685183580314500,
+        "matching_mode": "liking",
+        "like_id": "1",
+        "card_id": 2,
+        "cheatCounter": 0,
+        "__scenes": {
+          "current": "profile",
+          "state": {}
+        }
+      }
+    },
+    {
+      "id": "1216081575:1216081575",
+      "data": {
+        "_fix": null,
+        "settings": {},
+        "currentCardId": 29019730530963252,
+        "matching_mode": "liking",
+        "user_id": "402526102:402526102",
+        "card_id": 29019730530963252,
+        "initCardCompanyOwnerId": "1216081575:1216081575",
+        "initCardId": 29019730530963252,
+        "initCard": {
+          "companyOwnerId": "1216081575:1216081575",
+          "id": 29019730530963252,
+          "label": "J",
+          "description": "I",
+          "descriptionEntities": []
+        },
+        "like_id": 9014345505245868,
+        "companyName": null,
+        "companyDescription": null,
+        "companyDescriptionEntities": null,
+        "companyContacts": null,
+        "companyContactsEntities": null,
+        "cheatCounter": 0,
+        "__scenes": {
+          "current": "company_matching",
+          "state": {}
+        }
+      }
+    },
+    {
+      "id": "889632039:889632039",
+      "data": {
+        "_fix": null
+      }
+    },
+    {
+      "id": "450452535:450452535",
+      "data": {
+        "_fix": null,
+        "settings": {},
+        "companyName": null,
+        "companyDescription": null,
+        "companyDescriptionEntities": null,
+        "companyContacts": null,
+        "companyContactsEntities": null,
+        "initCardCompanyOwnerId": null,
+        "initCardId": null,
+        "initCard": null,
+        "currentCardId": 35976502717206360,
+        "matching_mode": "liking",
+        "user_id": "402526102:402526102",
+        "card_id": 35976502717206360,
+        "__scenes": {
+          "current": "company_card",
+          "state": {}
+        }
+      }
+    },
+    {
+      "id": "1081407584:1081407584",
+      "data": {
+        "_fix": null,
+        "settings": {},
+        "__scenes": {
+          "current": "company_initialisation_name",
+          "state": {}
+        }
+      }
+    },
+    {
+      "id": "653057814:653057814",
+      "data": {
+        "_fix": null,
+        "settings": null,
+        "cheatCounter": 0,
+        "__scenes": {
+          "current": "profile",
+          "state": {}
+        }
+      }
+    },
+    {
+      "id": "322235535:322235535",
+      "data": {
+        "_fix": null,
+        "settings": {},
+        "__scenes": {
+          "current": "auth_choose_company_or_user",
+          "state": {}
+        }
+      }
+    },
+    {
+      "id": "711557361:711557361",
+      "data": {
+        "_fix": null,
+        "settings": {},
+        "companyName": null,
+        "companyDescription": null,
+        "companyDescriptionEntities": null,
+        "companyContacts": null,
+        "companyContactsEntities": null,
+        "__scenes": {
+          "current": "company_profile",
+          "state": {}
+        }
+      }
+    },
+    {
+      "id": "1438058044:1438058044",
+      "data": {
+        "_fix": null,
+        "settings": {},
+        "cheatCounter": 0,
+        "companyName": null,
+        "companyDescription": null,
+        "companyDescriptionEntities": null,
+        "companyContacts": null,
+        "companyContactsEntities": null,
+        "initCardCompanyOwnerId": "1438058044:1438058044",
+        "initCardId": 50533151499689380,
+        "initCard": {
+          "companyOwnerId": "1438058044:1438058044",
+          "id": 50533151499689380
+        },
+        "__scenes": {
+          "current": "company_newcard_label",
+          "state": {}
+        }
+      }
+    },
+    {
+      "id": "388958954:388958954",
+      "data": {
+        "_fix": null,
+        "settings": {
+          "steps": [
+            "settings_name",
+            "settings_age",
+            "settings_description",
+            "settings_stack",
+            "settings_photo",
+            "settings_location",
+            "settings_resume",
+            "settings_contacts"
+          ],
+          "afterscene": "profile",
+          "goBackEnabled": false,
+          "curstep": 1,
+          "data": {
+            "name": "Andrey"
+          }
+        },
+        "__scenes": {
+          "current": "settings_age",
+          "state": {}
+        }
+      }
+    },
+    {
+      "id": "395181560:395181560",
+      "data": {
+        "_fix": null
+      }
+    },
+    {
+      "id": "869652722:869652722",
+      "data": {
+        "_fix": null,
+        "__scenes": {}
+      }
+    }
+  ]
+}

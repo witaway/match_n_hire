@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "id": "402526102:402526102",
+      "name": "Yegor",
+      "age": 17,
+      "description": "Привет, я Егор! \n\n🎓 Сейчас я студент первого курса, учусь в Витебске в ВГУ, а также прохожу курс по Node.js от компании iTechArt. \n\n👨🏽‍💻 Уже давно увлекаюсь программированием и в свободное время активно развиваюсь в этой сфере. Нравится мне очень многое, но решил остановиться на Backend-Fullstack JavaScript технологиях. \n\n🇬🇧 Также, как могу, изучаю английский язык.\n\n😎 Очень надеюсь ко второму-третьему курсу найти себе стажировку и дальше появляться в универе только на период сессий. :)\n\nТакие вот дела. Это я.",
+      "descriptionMsgEntities": [],
+      "stack": [
+        "javascript",
+        "nodejs",
+        "expressjs",
+        "reactjs"
+      ],
+      "photo": "AgACAgIAAxkBAAINU1-44T8_vp0Yly98-DfUnGEOhN3EAAKXrzEbfYXISR7VDrt-z48gn7NFmC4AAwEAAwIAA3kAAwpWAwABHgQ",
+      "location": {
+        "longitude": 30.142223,
+        "latitude": 55.172007
+      },
+      "resume": "BQACAgIAAxkBAAINXF-44gABJ1ugrbxkOZeCP_0jQf3auQACdgkAAiMOwEkEdyKtLHtB5h4E",
+      "contactInfo": "+375(33)666-66-66",
+      "contactInfoEntities": [
+        {
+          "offset": 0,
+          "length": 17,
+          "type": "phone_number"
+        }
+      ]
+    }
+  ],
+  "companies": [
+    {
+      "id": "andersen",
+      "name": "Andersen group",
+      "contactInfo": "+375 17 388 4022\nvn@andersenlab.com\n\nSkype: https://join.skype.com/aM8R4P4dNJdy\nWhatsApp: 375447724528\nTelegram: @nichiporovich",
+      "contactInfoEntities": [],
+      "description": "aaa",
+      "cardsIds": [],
+      "descriptionEntities": [],
+      "verified": false
+    },
+    {
+      "id": "trash",
+      "name": "Trashcorp inc.",
+      "contactInfo": "aaa",
+      "contactInfoEntities": [],
+      "description": "aaa",
+      "cardsIds": [],
+      "descriptionEntities": [],
+      "verified": false
+    },
+    {
+      "id": "imaguru",
+      "name": "Imaguru",
+      "contactInfo": "aaa",
+      "contactInfoEntities": [],
+      "description": "aaa",
+      "cardsIds": [],
+      "descriptionEntities": [],
+      "verified": false
+    },
+    {
+      "id": "711557361:711557361",
+      "name": "Xd",
+      "contactInfo": "Xd",
+      "contactInfoEntities": [],
+      "description": "Xd",
+      "descriptionEntities": [],
+      "verified": false,
+      "cardsIds": []
+    },
+    {
+      "id": "1438058044:1438058044",
+      "name": "Satan's hub",
+      "contactInfo": "+375(29)666-66-66",
+      "contactInfoEntities": [
+        {
+          "offset": 0,
+          "length": 17,
+          "type": "phone_number"
+        }
+      ],
+      "description": "Our boilers are the hottest in the world!",
+      "descriptionEntities": [],
+      "verified": false,
+      "cardsIds": []
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "companyOwnerId": "andersen",
+      "label": "J",
+      "description": "ANDERSEN – международная аутсорсинговая компания, ориентированная на разработку программного обеспечения.\n\nЗа последний год количество сотрудников нашей компании увеличилось на 40%;\n\nЗа последние два года более 20% наших сотрудников были в командировках в США, Европе и Израиле;",
+      "descriptionEntities": [],
+      "photo": "AgACAgIAAxkBAAINVF-44VBgQjBrQwV5n41gRH0lKDQeAAKYrzEbfYXISbR_iVVdXQMW4ztHmC4AAwEAAwIAA3kAAxBQAwABHgQ"
+    },
+    {
+      "id": 2,
+      "companyOwnerId": "trash",
+      "label": "J",
+      "description": "HeLo GuIs sEnD CV OKAAAAY ??\nWe have $200 salary \nBut but but we have cool (not at all) project )))",
+      "descriptionEntities": [],
+      "photo": "AgACAgIAAxkBAAINVV-44VRH0lO1RV0ylGk8SiyoD6rfAAKZrzEbfYXISavYgAyYJqrpe_RBli4AAwEAAwIAA3gAA7aXBAABHgQ"
+    },
+    {
+      "id": 3,
+      "companyOwnerId": "imaguru",
+      "label": "J",
+      "description": "Imaguru - первый и самый крупный и влиятельный Startup HUB Беларуси. Это частный бизнес, который имеет 6+ лет опыта в создании и развитии стартапов в Беларуси, работает с инвесторами, инноваторами и предпринимателями.\n\nЭто пространство для развития инновационных, технологических стартап компаний и предпринимателей, направленных на глобальный рынок.",
+      "descriptionEntities": [],
+      "photo": "AgACAgIAAxkBAAINVl-44Ve8F1KcQTuAw9qPSpuMmQrbAAKarzEbfYXISbJSz_cORdRKvnNoly4AAwEAAwIAA3kAA6JfAwABHgQ"
+    }
+  ],
+  "likes": [
+    {
+      "id": "1",
+      "type": "user_to_card",
+      "from": "402526102:402526102",
+      "to": 1,
+      "status": "mutual_seen"
+    }
+  ]
+}
