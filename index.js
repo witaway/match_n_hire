@@ -58,6 +58,7 @@ function registerScenes(stage, dir) {
 }
 
 
+let process = require('process')
 const bot = new Telegraf(process.env.BOT_TOKEN)
 
 initializeDataManagement(bot, process.env.DATABASE_FILE, 
